@@ -1,1 +1,3 @@
 # guessing game is...
+
+this is (just) rust tutorial
